@@ -11,7 +11,8 @@ public class StudentMain {
 		
 		String[] courses = student.showCourses();
 
-        for (String course : courses) {
+        for (String course : courses) 
+        {
             System.out.println(course);
         }
 
