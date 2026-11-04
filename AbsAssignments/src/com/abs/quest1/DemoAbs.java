@@ -15,7 +15,7 @@ public class DemoAbs {
 		{
 		case 1:
 				{
-					Employee manager = new Manager("HItesh",10000,101);
+					//Employee manager = new Manager("HItesh",10000,101);
 				}
 		
 		
