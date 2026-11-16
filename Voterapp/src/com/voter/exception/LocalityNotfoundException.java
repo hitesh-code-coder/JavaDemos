@@ -1,6 +1,6 @@
 package com.voter.exception;
 
-public class LocalityNotfoundException extends Exception 
+public class LocalityNotfoundException extends NotEligibleException 
 {
 
 	/**

@@ -1,6 +1,6 @@
 package com.voter.exception;
 
-public class InvalidVoterIdException extends Exception 
+public class InvalidVoterIdException extends NotEligibleException 
 {
 
 	/**
